@@ -1,4 +1,4 @@
-
+#Practicing days of the week
 days_of_week=["Monday", "tuesday"]
 print days_of_week
 
