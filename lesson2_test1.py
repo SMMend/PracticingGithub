@@ -1,4 +1,5 @@
 #Practicing days of the week
+#adding another line because I want to see how history works
 days_of_week=["Monday", "tuesday"]
 print days_of_week
 
